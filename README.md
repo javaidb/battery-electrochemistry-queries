@@ -1,5 +1,5 @@
 
-# Battery Electrochemsitry Queries
+# Battery Electrochemistry Queries
 
 This repository serves as a personal self-study initiative aimed at deepening my understanding of lithium-ion battery electrochemistry. Throughout this project, I aim to verify theories and obtained answers to personal questions around various topics surrounding electrochemistry in various applications of battery tech. <br>
 
